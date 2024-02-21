@@ -1,4 +1,5 @@
 # Data-analysis
 Author :- Shoaib khan 
 
-Data analysis on data set of product sale among different gender and age groups. 
+# Next Word Prediction model -:
+In this project i use python language and using ML also for tokenism for my data set if someone want to contribute in my project then yes they can.
